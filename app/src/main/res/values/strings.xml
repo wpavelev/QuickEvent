@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QE</string>
+    <string name="calendar_id">calid</string>
+    <string name="event_title">title</string>
+    <string name="event_desc">desc</string>
+    <string name="event_start_hour">starthour</string>
+    <string name="event_start_minute">startminute</string>
+    <string name="event_end_hour">stophour</string>
+    <string name="event_end_minute">stopminute</string>
+    <string name="adapter_list">adapterlist</string>
+</resources>
